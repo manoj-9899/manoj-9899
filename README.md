@@ -8,9 +8,8 @@ Hello! I'm Manoj Pawar, a passionate developer who loves to create and explore n
 - 🌱 Currently learning Data Structures and Algorithms.
 - 📚 I enjoy sharing knowledge through code and tutorials.
 - 🧑‍💻 You can find my work on various platforms:
-  - [Portfolio/Personal Website](your-website-link)
-  - [LinkedIn](your-linkedin-link)
-  - [Twitter](your-twitter-link)
+  - [LinkedIn](www.linkedin.com/in/manoj-shivaji-pawar)
+  - [Twitter](@manoj61806
 
 ## Projects
 
