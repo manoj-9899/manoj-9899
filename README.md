@@ -11,14 +11,6 @@ Hello! I'm Manoj Pawar, a passionate developer who loves to create and explore n
   - [LinkedIn](www.linkedin.com/in/manoj-shivaji-pawar)
   - [Twitter](@manoj61806
 
-## Projects
-
-Here are some of the repositories I’m currently working on or have worked on:
-
-- Scientific Calculator Project: This project is a Python-based scientific calculator that supports basic arithmetic and scientific operations. It also stores the history of calculations in an SQLite database.
-  - [[Link to project](https://github.com/manoj-9899/Scientific_Calculator_Project)]
-
-Feel free to check out my repositories and contribute or give feedback!
 
 ## Skills
 
