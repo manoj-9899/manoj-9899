@@ -1,37 +1,32 @@
 # Welcome to My GitHub Profile
 
-Hello! I'm Manoj Pawar, a passionate developer who loves to create and explore new things in the world of programming.
+I am a **Third-year Computer Engineering Student** with a growing passion for **web development** and **programming**. [1], [2]
 
-## About Me
-
-- 👨‍💻 I am a Second year Computer Engineering Student.
-- 🌱 Currently learning Data Structures and Algorithms.
-- 📚 I enjoy sharing knowledge through code and tutorials.
-- 🧑‍💻 You can find my work on various platforms:
-  - [LinkedIn](www.linkedin.com/in/manoj-shivaji-pawar)
-  - [Twitter](@manoj61806
+### 👨‍💻 About Me
+- 🎓 I am currently pursuing my degree in Computer Engineering. [1]
+- 🌱 I’m currently focused on mastering **Data Structures and Algorithms**. [2]
+- 📚 I enjoy sharing knowledge through code and tutorials. [2]
+- 🏗️ I love creating and exploring new things in the world of programming. [2]
 
 
-## Skills
+### 🛠️ Tech Stack
+- **Languages:** Python, C, C++, HTML, CSS [2]
+- **Tools:** Git, GitHub [2]
 
-- Programming Languages: Python, C, C++, HTML, CSS
-- Tools: Git and GitHub
+- ### 📂 Featured Projects
+- **[manoj-portfolio](https://manoj-9899.github.io/manojpawar/):** My personal portfolio website showcasing my skills and projects. [3]
+- **dice-game:** A simple dice game built with CSS. [3]
+- **drum-kit-mini-project:** A fun JavaScript-based mini project. [3]
 
-## How to Reach Me
+### 🔗 Connect with Me
+- 🌐 **Portfolio:** [manoj-9899.github.io/manojpawar/](https://manoj-9899.github.io/manojpawar/) [1]
+- 💼 **LinkedIn:** [linkedin.com/in/pawar-manoj/](https://www.linkedin.com/in/pawar-manoj/)
+- 🐦 **Twitter:** [x.com/manoj61806](https://x.com/manoj61806)
+- 📫 **Email:** [manojpawar.dev@gmail.com](mailto:manojpawar.dev@gmail.com)
 
-- 📫 Email: mp2838946@gmail.com
-- 💬 Feel free to open an issue or PR if you have any questions or suggestions!
+### 📜 License
+All of my projects are open-source and available under the **MIT License**. [3]
 
-## Support My Work
-
-If you like my projects and want to support my work, feel free to star my repositories! ⭐
-
-## License
-
-All of my projects are open-source and available under the [MIT License](LICENSE).
-
----
-
-Thanks for visiting my GitHub! Happy coding! 🚀
+*Thanks for visiting my GitHub! Happy coding!* 🚀 [3]
 
 
