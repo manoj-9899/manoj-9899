@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-I am a **Third-year Computer Engineering Student** with a growing passion for **web development** and **programming**. [1], [2]
+I am a **Final year Computer Engineering Student** with a growing passion for **web development** and **programming**. [1], [2]
 
 ### 👨‍💻 About Me
 - 🎓 I am currently pursuing my degree in Computer Engineering. [1]
