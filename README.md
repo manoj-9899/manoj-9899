@@ -49,8 +49,8 @@ A repository-analysis MVP that inspects public GitHub repository metadata and ap
 A spec-driven concept for a local skill-exchange platform where people can trade skills and services without money.  
 **Status:** early planning/specification stage; implementation is not complete.
 
-### 🌐 [Vantage / Portfolio work](https://github.com/manoj-9899/portfolio)
-I also build and iterate on web experiences, including my personal portfolio and small-business website concepts. Browse the repositories for individual project scope and current state.
+### 🌐 [Personal portfolio](https://github.com/manoj-9899/manojpawar)
+My responsive portfolio site, built with HTML, CSS, and JavaScript, is deployed on [GitHub Pages](https://manoj-9899.github.io/manojpawar/). I also build small-business website concepts; see individual repositories for each project's scope and current state.
 
 ## Tech I work with
 
